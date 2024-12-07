@@ -10,7 +10,6 @@ Bu repository, Arduino'ya yeni başlayan biri olarak temel elektronik ve program
 4. **PWM Kullanarak Potansiyometre ile LED Yakma**: Potansiyometreyi çevirerek LED parlaklığını kontrol etme.
 5. **LDR ile LED Kontrolü**: Işık sensörü (LDR) ile ortam ışığına bağlı olarak LED kontrolü.
 6. **RGB LED Bağlantısı ve Kullanımı**: RGB LED'i farklı renklerde kontrol etme.
-7. **LED'lerle Koşu Efekti (LED Chase Effect)**: Bir dizi LED'in sırayla yanıp sönmesi ve ardından tersten sırasıyla yanıp sönmesi.
 
 Her projeye dair açıklamalar, kodlar ve gerekirse devre şemaları repository içerisinde yer almaktadır.
 
@@ -33,3 +32,4 @@ Projeleri kendi Arduino setinizde deneyimlemek için:
 Her türlü geri bildirime açığım! Eğer projelerde bir eksiklik veya geliştirme fırsatı görüyorsanız, lütfen bir Issue açın. Daha ileri projeler için önerilerinizi paylaşabilir veya katkılarınızı Pull Request yoluyla sunabilirsiniz.
 
 **Not**: Bu repository, temel bir öğrenme sürecini temsil etmektedir. İlerledikçe yeni projeler eklemeye devam edeceğim.
+
