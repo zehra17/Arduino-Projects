@@ -1,35 +1,34 @@
-# Arduino Başlangıç Projeleri
-Bu repository, Arduino'ya yeni başlayan biri olarak temel elektronik ve programlama becerilerimi geliştirmek için oluşturduğum projeleri içermektedir. Projeler, öğrenme sürecimde karşılaştığım temel konseptlere yönelik küçük uygulamalardan oluşmaktadır.
+# Arduino Beginner Projects
+This repository contains the projects I created as a beginner in Arduino to develop my basic electronics and programming skills. These projects are small applications focused on fundamental concepts encountered during my learning journey.
 
-## İçerik
-Şu ana kadar gerçekleştirdiğim projeler:
+## Contents
+The projects I have completed so far:
 
-1. **Push Button ile LED Yakma**: Bir düğmeye basıldığında LED'in yanmasını sağlama.
-2. **Blink Uygulaması (LED Yakmak)**: LED'in belirli aralıklarla yanıp sönmesini sağlama.
-3. **Analog Okuma ve Seri Haberleşme**: Potansiyometreden alınan veriyi okuyup seri port üzerinden görüntüleme.
-4. **PWM Kullanarak Potansiyometre ile LED Yakma**: Potansiyometreyi çevirerek LED parlaklığını kontrol etme.
-5. **LDR ile LED Kontrolü**: Işık sensörü (LDR) ile ortam ışığına bağlı olarak LED kontrolü.
-6. **RGB LED Bağlantısı ve Kullanımı**: RGB LED'i farklı renklerde kontrol etme.
+1. **Turning on an LED with a Push Button**: Lighting up an LED when a button is pressed.  
+2. **Blink Application (LED Blinking)**: Making an LED blink at regular intervals.  
+3. **Analog Reading and Serial Communication**: Reading data from a potentiometer and displaying it via the serial port.  
+4. **Controlling LED Brightness with PWM and a Potentiometer**: Adjusting LED brightness by turning a potentiometer.  
+5. **LED Control with an LDR**: Using a light sensor (LDR) to control an LED based on ambient light.  
+6. **Connecting and Using an RGB LED**: Controlling an RGB LED to display various colors.
 
-Her projeye dair açıklamalar, kodlar ve gerekirse devre şemaları repository içerisinde yer almaktadır.
+Each project includes explanations, codes, and circuit diagrams (if necessary) within the repository.
 
-## Amacım
-Arduino'ya yeni başlayan birisi olarak:
+## My Goal
+As a beginner in Arduino, my aims are:
 
-- Elektronik devreleri ve bileşenlerini anlamak,
-- Arduino ile programlama becerilerimi geliştirmek,
-- Temelden başlayarak karmaşık projelere geçiş yapmak,
-- Öğrenme sürecimi kaydederek başkalarına ilham vermek.
+- To understand electronic circuits and components,  
+- To enhance my programming skills with Arduino,  
+- To progress from basic to complex projects,  
+- To document my learning process and inspire others.
 
-## Kullanım
-Projeleri kendi Arduino setinizde deneyimlemek için:
+## How to Use
+To try these projects with your own Arduino kit:
 
-- İlgili proje klasörünü indirin.
-- Arduino IDE veya benzeri bir ortamda açın.
-- Gerekli devreyi kurup kodu yükleyerek projeyi çalıştırabilirsiniz.
+- Download the relevant project folder.  
+- Open it in Arduino IDE or a similar environment.  
+- Set up the required circuit and upload the code to run the project.
 
-## Geri Bildirim ve Katkı
-Her türlü geri bildirime açığım! Eğer projelerde bir eksiklik veya geliştirme fırsatı görüyorsanız, lütfen bir Issue açın. Daha ileri projeler için önerilerinizi paylaşabilir veya katkılarınızı Pull Request yoluyla sunabilirsiniz.
+## Feedback and Contributions
+I welcome all feedback! If you find any issues or opportunities for improvement in the projects, feel free to open an Issue. You can also share suggestions for advanced projects or contribute through Pull Requests.
 
-**Not**: Bu repository, temel bir öğrenme sürecini temsil etmektedir. İlerledikçe yeni projeler eklemeye devam edeceğim.
-
+**Note**: This repository represents a basic learning journey. I will continue to add new projects as I progress.
