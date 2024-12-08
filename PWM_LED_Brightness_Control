@@ -3,11 +3,11 @@
 int deger;
 
 void setup() {
-  pinMode(led, OUTPUT); // LED pinini çıkış olarak ayarla
+  pinMode(led, OUTPUT); 
 }
 
 void loop() {
-  deger = analogRead(pot); // Potansiyometre değerini oku
-  deger = deger / 4; // 0-1023 aralığını 0-255 aralığına indir
-  analogWrite(led, deger); // PWM sinyalini LED'e gönder
+  deger = analogRead(pot); 
+  deger = deger / 4; 
+  analogWrite(led, deger); 
 }
